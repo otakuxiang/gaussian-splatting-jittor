@@ -1,3 +1,0 @@
-/home/chx/ssd/3dGS/gaussian_jittor/gaussian_renderer/diff_gaussian_rasterizater/build/CMakeFiles/CudaRasterizer.dir
-/home/chx/ssd/3dGS/gaussian_jittor/gaussian_renderer/diff_gaussian_rasterizater/build/CMakeFiles/edit_cache.dir
-/home/chx/ssd/3dGS/gaussian_jittor/gaussian_renderer/diff_gaussian_rasterizater/build/CMakeFiles/rebuild_cache.dir
