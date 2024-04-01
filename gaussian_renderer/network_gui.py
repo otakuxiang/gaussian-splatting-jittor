@@ -9,7 +9,6 @@
 # For inquiries contact  george.drettakis@inria.fr
 #
 
-import torch
 import jittor as jt
 import traceback
 import socket

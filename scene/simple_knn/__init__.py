@@ -2,11 +2,7 @@ import os
 import jittor as jt
 
 header_path = os.path.join(os.path.dirname(__file__), 'cuda_headers')
-if os.path.dirname(__file__) == '':
-    lib_path = "."
-else:
-    lib_path = os.path.join(os.path.dirname(__file__))
-proj_options = {f'FLAGS: -I"{header_path}" -l"simpleknn" -L"{lib_path}/"':1}
+proj_options = {f'FLAGS: -I"{header_path}"':1}
 
 cuda_header = """
 #include "simple_knn.h"
