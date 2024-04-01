@@ -1,1 +1,0 @@
-Namespace(data_device='cuda', eval=False, images='images', model_path='./output/0201cd8f-1', resolution=-1, sh_degree=3, source_path='/media/nas/vr_lab/dataset/NeRF_data/nerf_synthetic/nerf_synthetic/ship', white_background=False)
