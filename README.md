@@ -121,7 +121,7 @@ python metrics.py -m <path to trained model> # Compute error metrics on renderin
 JGaussian will support more valuable 3DGS models in the future, if you are also interested in JGaussian and want to improve it, welcome to submit PR!  
 <b>:heavy_check_mark:Supported  :clock3:Doing :heavy_plus_sign:TODO</b>
 - :heavy_check_mark: 3D Gaussian Splatting
-- :heavy_check_mark: Mip-Splatting
+- :heavy_check_mark: [Mip-Splatting](https://github.com/lishaobingdong/mip-splatting-jittor)
 - :clock3: FSGS: Real-Time Few-Shot View Synthesis using Gaussian Splatting
 - :clock3: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields
 - :heavy_plus_sign: PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction
