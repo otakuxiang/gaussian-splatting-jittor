@@ -125,6 +125,7 @@ JGaussian will support more valuable 3DGS models in the future, if you are also 
 - :clock3: FSGS: Real-Time Few-Shot View Synthesis using Gaussian Splatting
 - :clock3: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields
 - :heavy_plus_sign: PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction
+- :heavy_plus_sign: EVSplitting: An Efficient and Visually Consistent Splitting Algorithm for 3D Gaussian Splatting
 - :heavy_plus_sign: ...
 ## Acknowledgements
 The original implementation comes from the following cool project:
